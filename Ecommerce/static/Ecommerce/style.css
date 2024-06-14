@@ -1,0 +1,14 @@
+body {
+    background: white url("./media/images/Background.png") no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Ensure the body takes the full height of the viewport */
+}
+h1 {
+    color: azure;
+
+}
+a, p, h2, h3 {
+    color: white;
+}
